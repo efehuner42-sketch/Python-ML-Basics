@@ -8,4 +8,5 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **K-Nearest Neighbors (KNN) & Feature Scaling**
 - **Decision Trees & Rule Extraction**
 - **Model Evaluation & Error Analysis** (Confusion Matrix, Precision, Recall, Classification Report)
+- **Handling Imbalanced Datasets & SMOTE** (Synthetic Data Generation & Resampling)
 - **Datasets** (Includes custom CSV files like diabetes.csv, pokemon_data.csv)
