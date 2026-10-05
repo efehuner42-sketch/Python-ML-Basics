@@ -10,4 +10,5 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **Model Evaluation & Error Analysis (Confusion Matrix, Precision, Recall, Classification Report)**
 - **Handling Imbalanced Datasets & SMOTE (Synthetic Data Generation & Resampling)**
 - **Cross-Validation & Model Validation (`cross_val_score`)**
+- **Support Vector Machines (SVM) & Kernel Trick (`linear`, `rbf`)**
 - **Datasets (Includes custom CSV files like diabetes.csv, pokemon_data.csv)**
