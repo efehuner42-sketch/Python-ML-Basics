@@ -7,6 +7,7 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **Logistic Regression & Probability Estimation**
 - **K-Nearest Neighbors (KNN) & Feature Scaling**
 - **Decision Trees & Rule Extraction**
+- **Random Forest & Ensemble Learning (`RandomForestClassifier`)**
 - **Model Evaluation & Error Analysis (Confusion Matrix, Precision, Recall, Classification Report)**
 - **Handling Imbalanced Datasets & SMOTE (Synthetic Data Generation & Resampling)**
 - **Cross-Validation & Model Validation (`cross_val_score`)**
