@@ -13,4 +13,6 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **Cross-Validation & Model Validation (`cross_val_score`)**
 - **Support Vector Machines (SVM) & Kernel Trick (`linear`, `rbf`)**
 - **Hyperparameter Tuning & Optimization (`GridSearchCV`)**
+- **Unsupervised Learning: K-Means Clustering & Centroid Visualization**
+- **Optimal Cluster Selection: Elbow Method & Inertia (WCSS)**
 - **Datasets (Includes custom CSV files like diabetes.csv, pokemon_data.csv)**
