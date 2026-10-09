@@ -15,4 +15,5 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **Hyperparameter Tuning & Optimization (`GridSearchCV`)**
 - **Unsupervised Learning: K-Means Clustering & Centroid Visualization**
 - **Optimal Cluster Selection: Elbow Method & Inertia (WCSS)**
+- **Dimensionality Reduction: PCA (Principal Component Analysis) & 2D Projection**
 - **Datasets (Includes custom CSV files like diabetes.csv, pokemon_data.csv)**
