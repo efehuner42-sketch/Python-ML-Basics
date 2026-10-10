@@ -1,6 +1,8 @@
-# Machine Learning & Python Journey 🚀
+# 🚀 Machine Learning & Python Journey
 
-This repository contains my daily Python and Machine Learning practice scripts, ranging from basic data manipulation to fundamental algorithms and model evaluation.
+Welcome to my Machine Learning diary! 📖 
+
+This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 26+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
 
 ## 🛠️ Technologies
 - **Language:** Python 3
@@ -12,6 +14,7 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **K-Nearest Neighbors (KNN) & Feature Scaling**
 - **Decision Trees & Rule Extraction**
 - **Random Forest & Ensemble Learning:** RandomForestClassifier
+- **Ensemble Learning Comparison:** Random Forest vs Gradient Boosting (GradientBoostingClassifier)
 - **Model Evaluation & Error Analysis:** Confusion Matrix, Precision, Recall, Classification Report
 - **Handling Imbalanced Datasets & SMOTE:** Synthetic Data Generation & Resampling
 - **Cross-Validation & Model Validation:** cross_val_score
@@ -22,3 +25,6 @@ This repository contains my daily Python and Machine Learning practice scripts, 
 - **Optimal Cluster Selection:** Elbow Method & Inertia (WCSS)
 - **Dimensionality Reduction:** PCA (Principal Component Analysis) & 2D Projection
 - **Datasets:** Includes custom CSV files like `diabetes.csv`, `pokemon_data.csv`
+
+## 📂 How to Navigate
+Since this is a practice repository, there is no main program to run. Each script is standalone and focuses on a specific ML concept. Feel free to explore the files individually to see the code implementations!
